@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Type-annotated function sum_mixed_list
+Type-annotated function to_kv
 """
 from typing import Union, Tuple
 
